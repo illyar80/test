@@ -24,4 +24,4 @@ $ git log -p -5 composer.json
 ```
 
 ### 3) PHP
-- See file index.php
+- See file [index.php] (/index.php)
