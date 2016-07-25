@@ -20,7 +20,7 @@ $ git log -1 --pretty=format:"%H"
 - Write a git command that displays the code changes of the last 5 commits for the file index.php (in the current folder)
 
 ```sh
-$ git log -p -5 composer.json
+$ git log -p -5 index.php
 ```
 
 ### 3) PHP
